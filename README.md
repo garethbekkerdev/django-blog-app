@@ -13,7 +13,7 @@ It supports:
 
 It’s a portfolio/demo project to showcase what I’ve learned about Python, Django, and web application basics.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python 3.x
 * Django (backend framework)
@@ -21,7 +21,7 @@ It’s a portfolio/demo project to showcase what I’ve learned about Python, Dj
 * HTML / CSS (basic frontend templates)
 * (Optional) Additional dependencies: image support via Pillow, styling with django-crispy-forms — as listed in `requirements.txt`
 
-## 🚀 Getting Started / Installation
+## Getting Started / Installation
 
 1. Clone the repo:
 
@@ -72,7 +72,7 @@ It’s a portfolio/demo project to showcase what I’ve learned about Python, Dj
 
 You should see the blog homepage.
 
-## 📖 Usage / Features
+## Usage / Features
 
 * View all blog posts (homepage)
 * Create a new post (requires login)
@@ -81,7 +81,7 @@ You should see the blog homepage.
 * View posts by a specific user (via “user/<username>” route)
 * User login / logout / signup
 
-## 🧰 Project Structure (at glance)
+## Project Structure (at glance)
 
 ```
 D2Proj/                   ← project root
